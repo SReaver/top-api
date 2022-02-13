@@ -1,0 +1,29 @@
+{
+  "clock": {
+    "hrtime": [
+      1724620,
+      201354446
+    ],
+    "unixtime": 1644427701193
+  },
+  "nodeVersions": {
+    "node": "17.1.0",
+    "v8": "9.5.172.25-node.13",
+    "uv": "1.42.0",
+    "zlib": "1.2.11",
+    "brotli": "1.0.9",
+    "ares": "1.18.1",
+    "modules": "102",
+    "nghttp2": "1.45.1",
+    "napi": "8",
+    "llhttp": "6.0.4",
+    "openssl": "3.0.0+quic",
+    "cldr": "39.0",
+    "icu": "69.1",
+    "tz": "2021a",
+    "unicode": "13.0",
+    "ngtcp2": "0.1.0-DEV",
+    "nghttp3": "0.1.0-DEV"
+  },
+  "toolVersion": "9.2.1"
+}
